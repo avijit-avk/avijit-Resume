@@ -37,11 +37,6 @@ main p {
   header > h1 {
     font-size: 22px;
   }
-
-  main p,
-  main li {
-    font-size: 15px;
-  }
 }
 
 
@@ -58,11 +53,6 @@ main p {
   header ul {
     font-size: 15px;
   }
-
-  main p,
-  main li {
-    font-size: 14px;
-  }
 }
 
 
@@ -75,11 +65,6 @@ main p {
 
   header > h1 {
     font-size: 18px;
-  }
-
-  main p,
-  main li {
-    font-size: 13.5px;
   }
 
   a,
