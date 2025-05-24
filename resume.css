@@ -25,7 +25,8 @@ h2{
 main p {
     font-size: 15px;
 }
-/* Tablets and large phones (≤ 768px) */
+
+
 @media only screen and (max-width: 775px) {
   header,
   main {
@@ -43,7 +44,7 @@ main p {
   }
 }
 
-/* Medium phones (≤ 600px) */
+
 @media only screen and (max-width: 600px) {
   header,
   main {
@@ -64,7 +65,7 @@ main p {
   }
 }
 
-/* Small phones (≤ 450px) */
+
 @media only screen and (max-width: 450px) {
   header,
   main {
